@@ -1,10 +1,8 @@
-### Hi there 👋 My name is Doug
+### yooooooo
 
-I'm an engineering consultant focused on FinTech and the Ethereum Ecosystem.
-
-👾 In my free time, I'm looking to collaborate on on-chain games!
-
-The best way to get in touch is to DM me on twitter. 
+#### Ethereum/FinTech.
+#### on-chain games maxi.
+#### DMs [@binderdouglas](https://twitter.com/binderdouglas). 
 
 <!--
 **Bind/bind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
