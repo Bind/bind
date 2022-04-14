@@ -1,5 +1,3 @@
-### yooooooo
-
 #### Ethereum/FinTech.
 #### on-chain games maxi.
 #### DMs [@binderdouglas](https://twitter.com/binderdouglas). 
