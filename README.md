@@ -1,6 +1,10 @@
 #### Ethereum/FinTech.
 #### on-chain games.
+#### Looking to collab with elite nerds building w/ Typescript/Rust/Solidity
+
 #### DMs [@binderdouglas](https://twitter.com/binderdouglas). 
+
+
 
 <!--
 **Bind/bind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
