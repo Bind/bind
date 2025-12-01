@@ -1,4 +1,4 @@
-#### Ethereum, FinTech & On-Chain Games.
+#### Ethereum, FinTech Games.
 #### Looking to collab with nerds building w/ Typescript/Rust/Solidity
 
 #### We're hiring, hit me up to talk shop. Twitter [@binderdouglas](https://twitter.com/binderdouglas) - Telegram [@dbinder](https://t.me/dbinder)
